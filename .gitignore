@@ -1,0 +1,8 @@
+.vs/
+ssl/
+node_modules/
+.vscode
+.vs/
+.idea/
+.angular/
+appsettings.json
